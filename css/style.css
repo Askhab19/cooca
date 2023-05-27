@@ -67,6 +67,9 @@ body {
   min-height: 100%; }
 
 .header {
+  position: fixed;
+  background: #fff;
+  z-index: 3;
   width: 100%;
   padding: 20px 0px;
   display: -webkit-box;
